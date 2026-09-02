@@ -96,6 +96,7 @@ Repository | Description
 [Security List](https://github.com/zbetcheckin/Security_list)						 | Great security list for fun and profit
 [Shell](https://github.com/alebcay/awesome-shell) 									| List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell
 [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns
+[URL Analysis & Phishing Detection](https://github.com/x0rz/phishing_catcher) | Tool for detecting phishing and suspicious URLs to enhance digital security awareness
 [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources
 [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose
 
